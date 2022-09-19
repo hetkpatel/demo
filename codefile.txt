@@ -1,4 +1,4 @@
-beta_1.0.1
+1.0.1
 
 -------------------------------
 This is a file with some code
@@ -7,6 +7,6 @@ public class Hello {
   public static void main(String[] args) {
     System.out.println("Hello world");
     System.out.println("My name is Het Patel");
-    System.out.println("This is beta version 1.0.1");
+    System.out.println("This is release version 1.0.1");
   }
 }
